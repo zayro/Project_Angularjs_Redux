@@ -1,0 +1,18 @@
+{
+    "beautify.language": {
+        "js": {
+            "type": ["javascript", "json", "javascriptreact"],
+            "filename": [".eslintrc.json"],
+            "ext": ["js", "json"]
+
+        },
+        "css": ["css", "scss"],
+        "html": ["htm", "html"]
+
+    },
+    "beautify.ignore": [
+        "*/test.js",
+        "**/spec/*",
+        "**/test/**/*"
+    ]
+}
