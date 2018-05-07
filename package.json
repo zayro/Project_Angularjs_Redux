@@ -22,7 +22,7 @@
     "bootstrap": "^4.1.0",
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
-    "jquery": "^2.1.1",
+    "jquery": "^3.0.0",
     "ng-redux": "^4.0.3",
     "redux": "^3.7.2",
     "redux-logger": "^3.0.6",
