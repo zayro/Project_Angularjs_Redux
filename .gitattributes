@@ -5,4 +5,7 @@ Api.elm linguist-generated=true
 project-docs/* linguist-documentation
 
 # Archivos analizar
-public/* linguist-vendored
+app/* linguist-vendored
+
+# Analizar archivos Sql
+*.sql linguist-generated=true
