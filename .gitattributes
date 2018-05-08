@@ -11,13 +11,13 @@ test/ export-ignore
 app/* linguist-vendored
 
 # Analizar archivos Sql
-*.sql linguist-generated=true
+#*.sql linguist-generated=true
 
 # ignora porcentaje de codigo html
-index.html linguist-vendored=false
+#index.html linguist-vendored=false
 
 # ignora lenguaje programacion
-*.html linguist-detectable=false
+#*.html linguist-detectable=false
 
 # Crear una extension con un lenguaje especifico
 # *.rb linguist-language=Java
