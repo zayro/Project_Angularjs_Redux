@@ -4,6 +4,9 @@ public/* linguist-generated=true
 # Archivos de documentacion
 docs/* linguist-documentation
 
+# Excluir folder al clonar
+test/ export-ignore
+
 # Archivos analizar
 app/* linguist-vendored
 
