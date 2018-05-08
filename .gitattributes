@@ -1,8 +1,8 @@
 # Archivos generados
-Api.elm linguist-generated=true
+public/* linguist-generated=true
 
 # Archivos de documentacion
-project-docs/* linguist-documentation
+docs/* linguist-documentation
 
 # Archivos analizar
 app/* linguist-vendored
