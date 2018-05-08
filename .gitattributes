@@ -9,3 +9,6 @@ app/* linguist-vendored
 
 # Analizar archivos Sql
 *.sql linguist-generated=true
+
+# Crear una extension con un lenguaje especifico
+# *.rb linguist-language=Java
